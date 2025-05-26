@@ -1,1 +1,2 @@
-print("Heello,world!")
+print("Hello,world!")
+print("this is a python code!")
